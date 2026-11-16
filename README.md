@@ -62,6 +62,7 @@ Atualmente atuo com suporte de TI e gestão de infraestrutura de monitoramento p
 
 | Projeto | Descrição | Stack Principal |
 | :--- | :--- | :--- |
+| **[Portfólio Pessoal](https://github.com/laccioli/portfolio)** <br> 🌐 [Ver ao vivo](https://laccioli.github.io/portfolio/) | Interface web interativa com design em glassmorphism, suporte bilíngue (PT/EN) e cards 3D, desenvolvida para apresentar projetos de Backend, Infraestrutura e IA Aplicada. | `HTML5` `CSS3` `JavaScript puro` `Glassmorphism` `Cards 3D` `i18n` |
 | **[OpsPulse Agent](https://github.com/laccioli/opspulse-agent)** | Ferramenta de diagnóstico SRE e triagem inteligente de incidentes com IA, capaz de inspecionar sinais operacionais e acelerar a análise de causa raiz. | `FastAPI` `Pydantic v2` `Gemini Function Calling` `Docker` |
 | **[Central Disk Telemetry Monitor](https://github.com/laccioli/disk-telemetry-monitor)** | Agente multiplataforma e servidor central para coleta de telemetria, alertas e monitoramento contínuo de armazenamento em hosts Windows e Linux. | `Python` `psutil` `FastAPI` `REST API` |
 | **[odr-forge](https://github.com/ordem-da-renascenca/odr-forge)** | Sistema backend orientado a objetos com interface de terminal (TUI/CLI) para gerenciamento estruturado de fichas, regras e sistemas de RPG com autenticação. | `Python` `POO` `CLI` `Auth` |
@@ -83,6 +84,9 @@ Atualmente atuo com suporte de TI e gestão de infraestrutura de monitoramento p
 ## 📫 Conecte-se comigo
 
 <div align="center">
+  <a href="https://laccioli.github.io/portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-laccioli.github.io-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio" />
+  </a>
   <a href="https://github.com/laccioli" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-laccioli-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
